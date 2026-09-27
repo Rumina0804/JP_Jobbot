@@ -8,3 +8,8 @@ service_account.json
 *.pyc
 bot.exe
 env
+.venv
+chrome_profile_lancers/
+chrome_profile_lancers_login/
+chrome_profile_cw/
+chrome_profile_coconala/
